@@ -1,0 +1,15 @@
+{
+  "name": "assignment_3",
+  "version": "1.0.0",
+  "description": "upd echo client/server",
+  "main": "udpServer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
